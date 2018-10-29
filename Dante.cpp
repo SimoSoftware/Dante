@@ -1,9 +1,6 @@
 #include <iostream>
+#include "Dante.h"
 
-int main(){
-
-    int a=0;
-
-
-    return 0;
+Dante::Dante(){
+    a = 3;
 }
